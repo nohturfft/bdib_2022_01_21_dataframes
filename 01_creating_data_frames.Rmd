@@ -3,7 +3,15 @@ title: "BDiB: Creating, reading and writing data frames"
 author: Axel Nohturfft (anohturf@sgul.ac.uk)
 date: "`r Sys.Date()`"
 output:
-  ioslides_presentation
+  html_notebook:
+    code_folding: 'no'
+    fig_caption: yes
+    highlight: tango
+    number_sections: no
+    theme: sandstone
+    toc: yes
+    toc_depth: 3
+    toc_float: no
 
 ---
 
